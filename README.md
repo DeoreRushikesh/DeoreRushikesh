@@ -11,7 +11,7 @@ Aspiring Data Analyst with a strong foundation in Python, SQL, Excel, and Power 
 ## Projects
 
 
-### [HR Analytics Dashboard using Power BI](https://github.com/yourusername/hr-analytics-dashboard)
+### [HR Analytics Dashboard using Power BI](https://github.com/DeoreRushikesh/HR_ANALYTICS-_DASHBOARD)
 - **Description:** Developed a comprehensive HR analytics dashboard.
 - **Tools:** Power BI
 - **Highlights:** Displayed key metrics such as employee count, average age, and attrition rate.
